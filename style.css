@@ -56,4 +56,47 @@ section{
 }
 .My-recipies p{
     color: tomato;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.cards{
+    width: 50%;
+    border-radius: 20px;
+    margin: 50px;
+    box-shadow: 2px 2px 20px gray;
+}
+.image-block img{
+    width: 95%;
+    border-radius: 30px;
+    padding-left: 9px;
+    padding-right: 15px;
+    padding-top: 9px;
+}
+.title-block{
+    padding: 9px;
+}
+.Description{
+    padding:9px ;
+}
+body{
+    min-height: 100vh;
+}
+footer{
+    position: sticky;
+    top: 100%;
+    background-color:chartreuse;
+    margin: 0;
+    padding: 0;
+}
+footer h1{
+    text-align: center;
+    padding: 10px;
+}
+footer p{
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 40px;
+}
+.food{
+    color: tomato;
 }
