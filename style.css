@@ -8,6 +8,9 @@ body{
     text-decoration: none;
     border-radius: 20px;
 }
+.widthrange{
+    width: 50%;
+}
 #Rest{
     color:chartreuse;
 }
@@ -26,4 +29,21 @@ section{
 }
 #Skiprest{
     color: tomato;
+}
+.About-me h1{
+    font-size: 40px;
+    color: tomato;
+}
+.About-me h5{
+    font-size: 20px;
+    color: chartreuse;
+}
+.widthrange2{
+    width: 50%;
+}
+#Image{
+    padding-left: 170px;
+}
+.About-me{
+    background-image: url(food-network-main/images/shapes/7.png);
 }
