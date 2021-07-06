@@ -31,11 +31,11 @@ section{
     color: tomato;
 }
 .About-me h1{
-    font-size: 40px;
+    font-size: 300%;
     color: tomato;
 }
 .About-me h5{
-    font-size: 20px;
+    font-size: 15px;
     color: chartreuse;
 }
 .widthrange2{
@@ -46,4 +46,14 @@ section{
 }
 .About-me{
     background-image: url(food-network-main/images/shapes/7.png);
+}
+.My-recipies{
+    text-align: center;
+}
+.My-recipies h1{
+    color: chartreuse;
+    font-size: 250%;
+}
+.My-recipies p{
+    color: tomato;
 }
